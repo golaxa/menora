@@ -1,2 +1,2 @@
 # menora
-Adding a Menora-Block to Minetest
+Adding a golden Menora to Minetest.
